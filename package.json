@@ -1,0 +1,11 @@
+{
+    "name": "graph-health",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "health": "node health.js"
+    },
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
